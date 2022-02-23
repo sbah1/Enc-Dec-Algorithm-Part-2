@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\thesw\onedrive\documents\visual studio 2015\projects\306final\306final\source.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\thesw\onedrive\documents\visual studio 2015\projects\306final\306final\source.cpp(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\thesw\onedrive\documents\visual studio 2015\projects\306final\306final\source.cpp(338): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  306final.vcxproj -> c:\users\thesw\onedrive\documents\visual studio 2015\Projects\306final\Debug\306final.exe
+  306final.vcxproj -> c:\users\thesw\onedrive\documents\visual studio 2015\Projects\306final\Debug\306final.pdb (Partial PDB)
